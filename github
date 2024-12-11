@@ -1,0 +1,11 @@
+
+mkdir - create directory
+touch - create file
+open file name - open file (on iOS)
+code fine name - open file (on windows)
+la -a (see all the hidden file)
+git status - verify the files
+git add file name - add the the files to the staging area
+git commit -m - validate the files and put a message
+git log - see what commit we made
+git add . - add everything in the current working directory
