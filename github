@@ -9,3 +9,6 @@ git add file name - add the the files to the staging area
 git commit -m - validate the files and put a message
 git log - see what commit we made
 git add . - add everything in the current working directory
+git checkout - reverse back (rollback to the last commited version on the working directory)
+git remote add origin out repository link - origin it's the name of our remote (we can name it as we want)
+git push -u origin main (master) - that command will push our local repository to the remote repository (git push -u <remote name> <branch name>)git
